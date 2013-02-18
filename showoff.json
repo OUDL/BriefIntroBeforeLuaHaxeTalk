@@ -1,0 +1,12 @@
+{
+  "name": "OUDL: Lua-n-Haxe",
+  "description": "OUDL Introduction before the main presentation.",
+  "author": "Kyle Oba",
+  "templates" : {
+      "special" : "simple.tpl"
+  },
+  "pause_msg": "Paused !!!",
+  "sections": [
+    {"section":"one"}
+  ]
+}
